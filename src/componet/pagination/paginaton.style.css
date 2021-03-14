@@ -1,0 +1,11 @@
+button {
+  padding: 10px 25px;
+  margin: 30px 10px;
+  font-size: 20px;
+}
+button:hover {
+  transform: scale(1.05);
+  background: black;
+  color: white;
+  cursor: pointer;
+}
